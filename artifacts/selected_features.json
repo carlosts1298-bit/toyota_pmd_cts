@@ -1,0 +1,13 @@
+[
+  "volt_mean_14d",
+  "volt_range_14d",
+  "volt_rstd_14d",
+  "rotate_mean_14d",
+  "rotate_std_14d",
+  "rotate_range_14d",
+  "pressure_mean_14d",
+  "pressure_range_14d",
+  "vibration_mean_14d",
+  "vibration_range_14d",
+  "vibration_rstd_14d"
+]

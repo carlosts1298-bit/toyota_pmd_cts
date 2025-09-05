@@ -1,0 +1,12 @@
+feature,VIF_when_dropped
+volt_min_14d,inf
+rotate_min_14d,inf
+pressure_min_14d,inf
+vibration_min_14d,inf
+volt_std_14d,1869.6964374212594
+pressure_std_14d,1757.0255635209182
+rotate_rstd_14d,1468.375853608956
+vibration_std_14d,1076.0546469543062
+pressure_max_14d,9.559411371082946
+vibration_max_14d,7.026659946719709
+pressure_rstd_14d,5.480444174198278

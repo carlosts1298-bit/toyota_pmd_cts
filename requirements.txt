@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+joblib==1.4.2
+statsmodels==0.14.2
+
+# Visualization
+matplotlib==3.9.2
+
+# Kaggle dataset loader
+kagglehub==0.3.13
+
+# Optional explainability
+# Nota: para compatibilidad con Python 3.12, fijamos numba/llvmlite.
+shap==0.45.1
+numba>=0.59.1
+llvmlite>=0.42.0
+
+# API / Deployment demo
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.8.2
+
+# Notebook support (if you also deliver EDA)
+jupyter==1.0.0
